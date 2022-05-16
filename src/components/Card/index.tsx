@@ -14,6 +14,7 @@ type MovieCardProps = {
   title: string;
   imageUrl: string;
   description: string;
+  rating: number;
 };
 
 export const MovieCard: React.FC<MovieCardProps> = ({
@@ -21,6 +22,7 @@ export const MovieCard: React.FC<MovieCardProps> = ({
   title,
   imageUrl,
   description,
+  rating,
 }) => {
   return (
     <Link className={styles.root} to={`/movie/${id}`}>
@@ -40,6 +42,9 @@ export const MovieCard: React.FC<MovieCardProps> = ({
               {description.substr(0, 100)}...
             </Typography>
           </CardContent>
+          <div className={styles.rayt}>
+              <span>{rating}</span>
+          </div>
         </CardActionArea>
       </Card>
     </Link>

@@ -58,6 +58,7 @@ export const Home = () => {
               title={obj.title}
               imageUrl={obj.imageUrl}
               description={obj.description}
+              rating={obj.rating}
             />
           ))}
       </div>
