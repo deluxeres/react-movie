@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Spider-Man: No Way Home",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3hLU5V1XDF0oHT9YUHvYC4j0Ix5.jpg",
+    "description": "Действие фильма «Человек-паук: Нет пути домой» начинает своё развитие в тот момент, когда Мистерио удаётся выяснить истинную личность Человека-паука. С этого момента жизнь Питера Паркера становится невыносимой. Если ранее он мог успешно переключаться между своими амплуа, то сейчас это сделать невозможно. Переворачивается с ног на голову не только жизнь Человека-пауку, но и репутация. Понимая, что так жить невозможно, главный герой фильма «Человек-паук: Нет пути домой» принимает решение обратиться за помощью к своему давнему знакомому Стивену Стрэнджу. Питер Паркер надеется, что с помощью магии он сможет восстановить его анонимность. Стрэндж соглашается помочь.",
+    "rating": 4.5,
+    "year": 2021,
+    "youtube_url": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+    "tags": ["Комедия", "Фантастика", "Marvel"],
+    "actors": [
+      {
+        "name": "Tom Holland",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/2qhIDp44cAqP2clOgt2afQI07X8.jpg"
+      },
+      {
+        "name": "Zendaya",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/jHWlWOasiqKS8JI40g9GDH5X6AL.jpg"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+      },
+      {
+        "name": "Jamie Foxx",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/hPwCMEq6jLAidsXAX5BfoYgIfg2.jpg"
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOqO6HPeG86SvAsZhM9PTQWKTQE.jpg",
+    "year": 2021,
+    "description": "Раккун-Сити, где когда-то располагался фармацевтический гигант Umbrella и вовсю бурлила жизнь, превратился в город-призрак. Компания давно переехала, но на ее месте глубоко под землей набирает силу великое зло. Когда оно вырвется на свободу, единственный шанс выжить уцелевшей горстке людей — сплотиться и узнать всю правду о корпорации Umbrellа.",
+    "rating": 3.2,
+    "youtube_url": "https://www.youtube.com/watch?v=SqWcGyjAWg4",
+    "tags": ["Зомби", "Мутанты", "Страшилка"],
+    "actors": [
+      {
+        "name": "Kaya Scodelario",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/oKsGrXKGrcVoQJQ6pbjZDPOQJcM.jpg"
+      },
+      {
+        "name": "Robbie Amell",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/5MPx1TEdgPs9UEXV65nd80JikSH.jpg"
+      },
+      {
+        "name": "Tom Hopper",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/e6vEDfJasTCLH8LY8kifEwQxySl.jpg"
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "title": "Матрица: Воскрешение",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Spf3e6r77ZD1vioRJvvbKXezNX.jpg",
+    "year": 2021,
+    "description": "Продолжение истории, рассказанной в первом фильме \"МАТРИЦА\", воссоединяющее кинематографических картин Нео и Тринити, когда они отправляются обратно в Матрицу и еще глубже в кроличью нору. Новое захватывающее приключение с действием и эпическим масштабом, действие которого разворачивается в знакомом, но еще более провокационном мире, где реальность более субъективна, чем когда-либо, и все, что требуется, чтобы увидеть правду, - это освободить свой разум.",
+    "rating": 4.3,
+    "youtube_url": "https://www.youtube.com/watch?v=8qB8EGNOtr8",
+    "tags": ["Фантастика", "Будущее", "Киберпанк", "Перезагрузка"],
+    "actors": [
+      {
+        "name": "Keanu Reeves",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/rRdru6REr9i3WIHv2mntpcgxnoY.jpg"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+      },
+      {
+        "name": "Yahya Abdul-Mateen II",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/aBDebGZs2pAucyaK4EhHVJGm0Xu.jpg"
+      },
+      {
+        "name": "Jonathan Groff",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+      },
+      {
+        "name": "Jessica Henwick",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/wVToQAASq6nAcAEBg5qOU9K8JkU.jpg"
+      }
+    ],
+    "id": "3"
+  },
+  {
+    "title": "Веном 2",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pZe4xYwDkmxhf3oA8DNEihOW4pW.jpg",
+    "year": 2021,
+    "description": "Более чем через год после тех событий журналист Эдди Брок пытается приспособиться к жизни в качестве хозяина инопланетного симбиота Венома, который наделяет его сверхчеловеческими способностями. Брок пытается возродить свою карьеру и берет интервью у серийного убийцы Клетуса Касади, который по воле случая становится хозяином Карнажа и сбегает из тюрьмы после неудавшейся казни.",
+    "rating": 4.8,
+    "youtube_url": "https://www.youtube.com/watch?v=Othd8W8o3t0",
+    "tags": ["Герой", "Супергерой", "Симбиот", "Marvel"],
+    "actors": [
+      {
+        "name": "Tom Hardy",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/9bXUMLOBCcnhcUGtfw0pdqbvpiH.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Yahya Abdul-Mateen II",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/aBDebGZs2pAucyaK4EhHVJGm0Xu.jpg"
+      },
+      {
+        "name": "Michelle Williams",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/tGRbxGPNIH1NuL2FhwEV0JJzuNf.jpg"
+      },
+      {
+        "name": "Reid Scott",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/kBAeDUDA7XJRXFLGNALlpE5d3lA.jpg"
+      },
+      {
+        "name": "Stephen Graham",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/rkavERf9KK4Yvs8V4HWrTaUwoHX.jpg"
+      }
+    ],
+    "id": "4"
+  },
+  {
+    "title": "Охотники за привидениями: Наследники",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDhhK1M6su9HCzyYnTcEo9APrPv.jpg",
+    "year": 2021,
+    "description": "Мать-одиночка с двумя детьми-подростками селится на старой ферме в Оклахоме, полученной в наследство от отца, которого она не знала. Дети пытаются больше узнать о своем деде и находят автомобиль Ecto-1, принадлежавший знаменитым охотникам за привидениями.",
+    "rating": 3.9,
+    "youtube_url": "https://www.youtube.com/watch?v=84a2VD68hJU",
+    "tags": ["Привидениями", "Охотники"],
+    "actors": [
+      {
+        "name": "Finn Wolfhard",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+      },
+      {
+        "name": "Mckenna Grace",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/jQLBM6ErQnvU8QqNvW8KKF9y8N0.jpg"
+      },
+      {
+        "name": "Paul Rudd",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg"
+      },
+      {
+        "name": "Logan Kim",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/clX7gddhCCUTmEVcOHfqvmJU7Zv.jpg"
+      },
+      {
+        "name": "Bill Murray",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Dan Aykroyd",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+      }
+    ],
+    "id": "5"
+  },
+  {
+    "title": "Интерстеллар",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rPrqBqZLl8m6sUQmZCchqW7IEYo.jpg",
+    "year": 2021,
+    "description": "Братья Кристофер и Джонатан Нолан представляют космическую одиссею под названием «Интерстеллар».Фантастическая драма, в главных ролях которой снялись Мэттью МакКонахии, Энн Хэтэуэй и Джессика Честейн, была номинирована на множество премий и получила «Оскар» за лучшие визуальные эффекты. Действие переносит зрителя в недалекое будущее, когда космос уже почти освоен шагнувшим вперед человечеством, но ресурсы Земли истощены. Из-за растущей концентрации азота на нашей планете царит засуха и, как следствие, глобальный продовольственный кризис. Сотрудники секретной лаборатории НАСА обнаруживают в районе орбиты Сатурна червоточину, позволяющую преодолеть пространственно-временной барьер и в кратчайшие сроки переместиться в другую галактику.",
+    "rating": 3.9,
+    "youtube_url": "https://www.youtube.com/watch?v=qcPfI0y7wRU",
+    "tags": ["Интерстеллар", "Приключения", "Фантастика"],
+    "actors": [
+      {
+        "name": "Matthew McConaughey",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/wJiGedOCZhwMx9DezY8uwbNxmAY.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/tLelKoPNiyJCSEtQTz1FGv4TLGc.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+      },
+      {
+        "name": "Ellen Burstyn",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/wjxo9Yw8ZoKewcRlHShfTIZGVQF.jpg"
+      },
+      {
+        "name": "John Lithgow",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "imageUrl": "https://www.themoviedb.org/t/p/w138_and_h175_face/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+      }
+    ],
+    "id": "6"
+  }
+]

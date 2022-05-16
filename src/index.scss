@@ -1,0 +1,17 @@
+* {
+  font-family: "Nunito", system-ui;
+}
+
+.movies {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 950px) {
+  .movies {
+    display: block;
+  }
+}
+
